@@ -30,8 +30,11 @@ Limpeza e seleção de variáveis: Descartaremos as colunas originais e manterem
 Durante a execução deste projeto, foram utilizadas as seguintes ferramentas e recursos:
 
 Linguagem de programação: Python
+
 Bibliotecas: NumPy, Pandas, Seaborn, 
+
 Google Colab ou ambiente similar para desenvolvimento e execução do código
+
 Conjunto de dados: Base de dados de pinguins disponível no pacote Seaborn.
 
 ----
